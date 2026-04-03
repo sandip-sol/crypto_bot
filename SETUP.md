@@ -68,7 +68,7 @@ TAKE_PROFIT_PCT  = 4.0   # alert when coin is 4% above your avg cost
 pip install requests
 
 # Run the bot
-python main.py
+python3 main.py
 ```
 
 You should immediately get a Telegram message like:
